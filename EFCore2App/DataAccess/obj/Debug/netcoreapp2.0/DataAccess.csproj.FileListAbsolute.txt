@@ -1,0 +1,11 @@
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\bin\Debug\netcoreapp2.0\BusinessLogic.dll
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\bin\Debug\netcoreapp2.0\BusinessLogic.pdb
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb

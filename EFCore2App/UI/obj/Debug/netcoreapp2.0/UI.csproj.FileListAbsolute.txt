@@ -1,0 +1,15 @@
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\obj\Debug\netcoreapp2.0\UI.csprojResolveAssemblyReference.cache
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\obj\Debug\netcoreapp2.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\obj\Debug\netcoreapp2.0\UI.AssemblyInfoInputs.cache
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\obj\Debug\netcoreapp2.0\UI.AssemblyInfo.cs
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\UI.deps.json
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\UI.runtimeconfig.json
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\UI.runtimeconfig.dev.json
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\UI.dll
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\UI.pdb
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\BusinessLogic.dll
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\bin\Debug\netcoreapp2.0\BusinessLogic.pdb
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\obj\Debug\netcoreapp2.0\UI.dll
+C:\Users\administro\Documents\GitHub\EFCore2AppDemo\EFCore2App\UI\obj\Debug\netcoreapp2.0\UI.pdb
